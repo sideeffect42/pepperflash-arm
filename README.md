@@ -10,7 +10,7 @@ While originating from Acer Chromebook 13 (Tegra K1) recovery images they should
 
 To get PepperFlash you can either
 - use one of the provided dumps or
-- execute the extractor script yourself
+- [execute the extractor script](scripts/README.md) yourself
 
 
 ### Dumps
